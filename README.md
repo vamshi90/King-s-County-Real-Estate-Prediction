@@ -1,6 +1,6 @@
 # King-s-County-Real-Estate-Prediction
 
-This data set shows the location of houses in King's County, Seattle, WA
+This dataset shows the location of houses in King's County, Seattle, WA. It has 21 attributes and 21613 observations.
 
 The purpose of the project was to analyze the pricing of real estate based on location, income group of families, number of bedrooms and its sizes. 
 
